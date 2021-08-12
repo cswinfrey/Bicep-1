@@ -1,5 +1,5 @@
-baseline='Contoso'
-location='westus'
+$baseline='ChrisNet'
+$location='westus'
 
 # Create Base64 script value
 cat script.sh | base64 >> script64.txt
